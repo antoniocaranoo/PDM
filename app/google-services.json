@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507604072003",
+    "firebase_url": "https://testapp-31935-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testapp-31935",
+    "storage_bucket": "testapp-31935.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507604072003:android:037b175ac0d1f1917e86f6",
+        "android_client_info": {
+          "package_name": "com.unimib.cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507604072003-7n5ri6nn7pilkkkuvldlbgrihg2q07ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unimib.cooking",
+            "certificate_hash": "7039f873934677fd4f3f421d88609d25cd612f28"
+          }
+        },
+        {
+          "client_id": "507604072003-1s5a84avdlrgm8k83gf7f4hq25c25fv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1HWtIIamLeF7iXX4uvHDWeBOJ1O4narU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507604072003-1s5a84avdlrgm8k83gf7f4hq25c25fv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
